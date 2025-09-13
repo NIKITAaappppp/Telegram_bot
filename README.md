@@ -39,6 +39,7 @@
 
 1. Клонировать репозиторий: https://github.com/NIKITAaappppp/Telegram_bot
 2. Вставить свой токен бота в config.py
-3. Запустить через python bot.py
+3. Вписать в Terminal pip install -r requirements.txt
+4. Запустить через python bot.py
    
 
